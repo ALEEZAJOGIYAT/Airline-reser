@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Airline-reser/static/css/main.1f1b80bc.css",
-    "main.js": "/Airline-reser/static/js/main.f4323b0f.js",
-    "static/media/glyphicons-halflings-regular.svg": "/Airline-reser/static/media/glyphicons-halflings-regular.9a17786234899efcc963.svg",
+    "main.css": "/Airline-reser/static/css/main.287d1708.css",
+    "main.js": "/Airline-reser/static/js/main.9250cb1c.js",
+    "static/media/glyphicons-halflings-regular.svg": "/Airline-reser/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/Airblue.jpg": "/Airline-reser/static/media/Airblue.9a433ece8d79ce76588b.jpg",
     "static/media/glyphicons-halflings-regular.ttf": "/Airline-reser/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/qatar.webp": "/Airline-reser/static/media/qatar.afaf5562fe29b1e1eb9d.webp",
@@ -11,11 +11,11 @@
     "static/media/glyphicons-halflings-regular.eot": "/Airline-reser/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/glyphicons-halflings-regular.woff2": "/Airline-reser/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/Airline-reser/index.html",
-    "main.1f1b80bc.css.map": "/Airline-reser/static/css/main.1f1b80bc.css.map",
-    "main.f4323b0f.js.map": "/Airline-reser/static/js/main.f4323b0f.js.map"
+    "main.287d1708.css.map": "/Airline-reser/static/css/main.287d1708.css.map",
+    "main.9250cb1c.js.map": "/Airline-reser/static/js/main.9250cb1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f1b80bc.css",
-    "static/js/main.f4323b0f.js"
+    "static/css/main.287d1708.css",
+    "static/js/main.9250cb1c.js"
   ]
 }
