@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Airline-reser/static/css/main.1f1b80bc.css",
-    "main.js": "/Airline-reser/static/js/main.c47d5d2f.js",
+    "main.js": "/Airline-reser/static/js/main.f4323b0f.js",
     "static/media/glyphicons-halflings-regular.svg": "/Airline-reser/static/media/glyphicons-halflings-regular.9a17786234899efcc963.svg",
     "static/media/Airblue.jpg": "/Airline-reser/static/media/Airblue.9a433ece8d79ce76588b.jpg",
     "static/media/glyphicons-halflings-regular.ttf": "/Airline-reser/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
@@ -12,10 +12,10 @@
     "static/media/glyphicons-halflings-regular.woff2": "/Airline-reser/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/Airline-reser/index.html",
     "main.1f1b80bc.css.map": "/Airline-reser/static/css/main.1f1b80bc.css.map",
-    "main.c47d5d2f.js.map": "/Airline-reser/static/js/main.c47d5d2f.js.map"
+    "main.f4323b0f.js.map": "/Airline-reser/static/js/main.f4323b0f.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1b80bc.css",
-    "static/js/main.c47d5d2f.js"
+    "static/js/main.f4323b0f.js"
   ]
 }
